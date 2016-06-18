@@ -1,0 +1,48 @@
+/macroicon "Adloquium"
+/ac "Adloquium" <mo>
+/ac "Adloquium" <t>
+/ac "Adloquium" <me>
+/pac "Embrace" <t>
+
+/macroicon "Physick"
+/ac "Physick" <mo>
+/ac "Physick" <t>
+/ac "Physick" <me>
+/pac "Embrace" <t>
+
+/micon "Succor"
+/ac "Succor"
+/pac "Embrace" <t>
+
+/macroicon "Lustrate"
+/ac "Lustrate" <mo>
+/ac "Lustrate" <t>
+/ac "Lustrate" <me>
+
+/macroicon "Broil"
+/ac "Broil" <t>
+/pac "Embrace" <mo>
+
+/macroicon "Ruin II"
+/ac "Ruin II" <t>
+/pac "Embrace" <mo>
+
+/macroicon "Bio II"
+/ac "Bio II" <t>
+/pac "Embrace" <mo>
+
+/macroicon "Miasma"
+/ac "Miasma" <t>
+/pac "Embrace" <mo>
+
+/macroicon "Bio"
+/ac "Bio" <t>
+/pac "Embrace" <mo>
+
+
+pet macros, swap out action/fairy name
+
+/micon "Whispering Dawn" pet Eos
+/macrolock
+/pac "Stay"
+/pac "Whispering Dawn" <wait.2>
